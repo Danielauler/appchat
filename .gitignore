@@ -1,2 +1,5 @@
 node_modules
 .expo
+.DS*
+*/.DS_Store
+.vscode
